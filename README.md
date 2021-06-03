@@ -1,1 +1,1 @@
-<h1 align=center> Projeto feito com o curso da Alura - JS na Web
+# Projeto feito no curso de JS na Web da Alura
