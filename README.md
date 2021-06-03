@@ -1,1 +1,1 @@
-# bloco_anotacoes
+<h1 align=center> Projeto feito com o curso da Alura - JS na Web
